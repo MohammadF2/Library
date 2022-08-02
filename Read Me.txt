@@ -1,0 +1,10 @@
+This project was fully coded by Mohammad Faraj 1200029
+
+Coded using IntelliJ IDEA 
+note. better than Eclipse
+
+Make sure to change all the paths in the code 
+
+All the data are saved in the photos file 
+
+all rights reserved  2002-2022 MohammadF© . 
